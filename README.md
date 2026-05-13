@@ -97,3 +97,6 @@ HDFS detecta la falla y replica los bloques.
 
 ## Balanceo
 ¿HDFS intenta distribuir bloques equitativamente?
+
+## modo gráfico
+Verifique lo visto en la teoría en clase por el modo gráfico (pista: puerto 9870=
